@@ -25,7 +25,7 @@
 |Nice materials for learning|
 |------|
 |[good tutorials for cp](https://codeforces.com/blog/entry/57282)|
-|[ekzlib](https://ekzlib.netlify.app/home)|
+[ekzlib](https://ekzlib.netlify.app/home)
 ---
        
        
